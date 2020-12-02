@@ -2,7 +2,7 @@
 Upload de arquivos para a Blockchain
 Autor: João Carlos Fortes Pinto
 
-Instrunções:
-Comando executar - node index.js
-Pagina - localhost:8080
+Instruções:
+Executar - node index.js
+Pagina web - localhost:8080
 
